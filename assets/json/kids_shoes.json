@@ -1,0 +1,42 @@
+{
+
+  "id": "15",
+
+  "name": "Puma Shoes",
+
+  "category": "Kids Running",
+
+  "imageUrl": [
+
+    "https://images.unsplash.com/photo-1730485675992-9744fbe5834f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OXx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1730485666302-9d8269fc57da?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTB8fHxlbnwwfHx8fHw%3D",
+    "https://images.unsplash.com/photo-1730485686861-827931fce9f8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+
+  "oldPrice":"1899.00",
+
+  "sizes": [
+
+    { "size": "6.0", "isSelected": false },
+
+    { "size": "6.5", "isSelected": false },
+
+    { "size": "7.0", "isSelected": false },
+
+    { "size": "7.5", "isSelected": false },
+
+    { "size": "8.0", "isSelected": false },
+
+    { "size": "8.5", "isSelected": false },
+
+    { "size": "9.0", "isSelected": false }
+
+  ],
+
+  "price": "79.00",
+
+  "description": "Put some pep in your step with the",
+
+  "title": "Adidas Running Shoes With Cooling Ventilation"
+
+}

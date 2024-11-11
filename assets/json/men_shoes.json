@@ -1,0 +1,45 @@
+{
+
+  "id": "0",
+
+  "name": "UltraBoost Shoes",
+
+  "category": "Men's Running",
+
+  "imageUrl": [
+   "https://images.unsplash.com/photo-1730485604749-03fe729b498b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1730485612756-661e3801ec4a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Nnx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1730485620760-4c43d82355ee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OHx8fGVufDB8fHx8fA%3D%3D"
+
+
+
+
+  ],
+
+  "oldPrice":"1899.00",
+
+  "sizes": [
+
+    { "size": "6.0", "isSelected": false },
+
+    { "size": "6.5", "isSelected": false },
+
+    { "size": "7.0", "isSelected": false },
+
+    { "size": "7.5", "isSelected": false },
+
+    { "size": "8.0", "isSelected": false },
+
+    { "size": "8.5", "isSelected": false },
+
+    { "size": "9.0", "isSelected": false }
+
+  ],
+
+  "price": "79.00",
+
+  "description": "Put some pep in your step with the",
+
+  "title": "Adidas Running Shoes With Cooling Ventilation"
+
+}
